@@ -76,12 +76,7 @@ Captures learnings after sprints, releases, or incidents and converts them into 
 ---
 
 ### 8. [Roles & Personas](./octoacme-roles-and-personas.md)
-Defines the typical roles used across OctoAcme projects — responsibilities, goals, communication patterns, and cross-role interaction guidance for delivery, quality, security, and operations collaboration.
-
----
-
-### 9. [Role Interaction & Handoff Checklists](./octoacme-role-interaction-and-handoff-checklists.md)
-Provides reusable templates that improve accountability and execution clarity, including a RACI-style interaction matrix, cross-role handoff checklist, and governance gate checklist.
+Defines the typical roles used across OctoAcme projects — responsibilities, goals, and communication patterns for Developers, Product Managers, and Project Managers.
 
 ---
 
