@@ -233,7 +233,7 @@ Use the guidance below to reduce ambiguity at common delivery handoffs:
 ## Role interaction quick map
 
 - **Developers** collaborate most closely with QA, Tech Leads, UX, and DevOps during execution.
-- **Product Managers** align outcomes and priorities with UX, PMs, Support, and Security constraints.
+- **Product Managers** align outcomes and priorities with UX, Project Managers, Support, and Security constraints.
 - **Project Managers** coordinate dependencies and decision gates across all roles.
 - **QA / Test Engineers** provide release quality signal to PM, Developers, and Product Managers.
 - **DevOps / Platform Engineers** partner with PM, Developers, QA, and Security on release safety.
